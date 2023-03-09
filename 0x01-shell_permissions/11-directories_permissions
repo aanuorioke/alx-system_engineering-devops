@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d */ | chmod a+x
+chmod -R u+x, g+x, o+x .
