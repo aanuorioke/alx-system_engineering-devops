@@ -1,0 +1,3 @@
+#!/bin/bash
+sed -e 's/A/c/g' -e 's/Z/e/g' 
+
