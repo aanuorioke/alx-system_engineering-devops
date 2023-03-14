@@ -1,3 +1,2 @@
 #!/bin/bash
 sed -e 's/c//g' -e 's/C//g' 
-
